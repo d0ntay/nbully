@@ -14,6 +14,8 @@ def main():
             target = hosts[int(input('> '))]
             print(f'Target selected : {target}')
             ports = port_discovery(target)
+            if len(ports) <= 0:
+                sys.exit(f'\nGoodbye!')
             target_port = ports[int(input('> '))]
 
             break
