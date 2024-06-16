@@ -14,9 +14,8 @@ def main():
             target = hosts[int(input('> '))]
             print(f'Target selected : {target}')
             ports = port_discovery(target)
-            for i,port in enumerate(ports):
-                print(f'[{i}] {port}')
-            print('Scan Complete!')
+            target_port = ports[int(input('> '))]
+
             break
         except:
             sys.exit(f'\nGoodbye!')

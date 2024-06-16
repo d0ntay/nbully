@@ -13,4 +13,7 @@ def port_discovery(target):
             pass
     if len(open_ports) <= 0:
         print('No open ports on this target ;C')
+    for i,port in enumerate(open_ports):
+        print(f'[{i}] {port}')
+    print('Scan Complete!')
     return open_ports
