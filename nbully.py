@@ -1,5 +1,6 @@
 from lib.host_discovery import host_discovery
 from lib.port_discovery import port_discovery
+from lib.escalation import escalate
 import os
 import sys
 def main():
@@ -17,7 +18,7 @@ def main():
             if len(ports) <= 0:
                 sys.exit(f'\nGoodbye!')
             target_port = ports[int(input('> '))]
-
+            escalate(target_port)
             break
         except:
             sys.exit(f'\nGoodbye!')

@@ -1,0 +1,538 @@
+port_number,description
+1,TCP Port Service Multiplexer (TCPMUX)
+2,CompressNET Management Utility
+3,CompressNET Compression Process
+4,Unassigned
+5,Remote Job Entry
+6,Unassigned
+7,Echo Protocol
+8,Unassigned
+9,Discard Protocol
+10,Unassigned
+11,Active Users (systat service)
+12,Unassigned
+13,Daytime Protocol
+14,Unassigned
+15,Unassigned
+16,Unassigned
+17,Quote of the Day
+18,Message Send Protocol
+19,Character Generator Protocol
+20,File Transfer [Default Data] (FTP)
+21,File Transfer Protocol (FTP)
+22,Secure Shell (SSH)
+23,TELNET
+24,any private mail system
+25,Simple Mail Transfer Protocol (SMTP)
+26,Unassigned
+27,NSW User System FE
+28,Unassigned
+29,MSG ICP
+30,Unassigned
+31,MSG Authentication
+32,Unassigned
+33,Display Support Protocol
+34,Unassigned
+35,Any private printer server
+36,Unassigned
+37,Time Protocol
+38,Route Access Protocol
+39,Resource Location Protocol
+40,Unassigned
+41,Graphics
+42,Host Name Server Protocol
+43,Who Is
+44,MPM FLAGS Protocol
+45,Message Processing Module [recv]
+46,MPM [default send]
+47,NI FTP
+48,Digital Audit Daemon
+49,TACACS Login Host protocol
+50,Remote Mail Checking Protocol
+51,IMP Logical Address Maintenance
+52,XNS Time Protocol
+53,Domain Name System (DNS)
+54,XNS Clearinghouse
+55,ISI Graphics Language
+56,XNS Authentication
+57,Any private terminal access
+58,XNS Mail
+59,Any private file service
+60,Unassigned
+61,NI MAIL
+62,ACA Services
+63,Unassigned
+64,Unassigned
+65,Network Virtual Terminal
+66,Unassigned
+67,Bootstrap Protocol Server
+68,Bootstrap Protocol Client
+69,Trivial File Transfer Protocol (TFTP)
+70,Gopher
+71,Remote Job Service
+72,Remote Job Service
+73,Remote Job Service
+74,Remote Job Service
+75,Remote Job Service
+76,Unassigned
+77,any private RJE service
+78,Unassigned
+79,Finger
+80,World Wide Web HTTP
+81,HOSTS2 Name Server
+82,Unassigned
+83,MIT ML Device
+84,Common Trace Facility
+85,MIT ML Device
+86,Unassigned
+87,Any private terminal link
+88,Any private schedule management service
+89,SU/MIT Telnet Gateway
+90,Unassigned
+91,MIT Dover Spooler
+92,Network Printing Protocol
+93,Device Control Protocol
+94,Telephone Control Protocol
+95,Supdup
+96,DIXIE Protocol Specification
+97,METAGRAM Relay
+98,Locus Address Resolution Protocol
+99,Unassigned
+100,New Data Services
+101,HOSTNAME
+102,ISO-TSAP (Transport Service Access Point)
+103,Genesis Point-to-Point Trans Net
+104,Digital Audit Daemon
+105,CCSO name server protocol
+106,3COM-TSMUX
+107,Remote Telnet Service
+108,SNA Gateway Access Server
+109,Post Office Protocol - Version 2 (POP2)
+110,Post Office Protocol - Version 3 (POP3)
+111,SUN Remote Procedure Call (RPC)
+112,McIDAS Data Transmission Protocol
+113,Authentication Service
+114,Ident Protocol
+115,Simple File Transfer Protocol (SFTP)
+116,ANSA REX Notify
+117,UUCP Path Service
+118,SQL Services
+119,Network News Transfer Protocol (NNTP)
+120,CFDPTKT
+121,Encore Expedited Remote Pro.Call
+122,SMAKYNET
+123,Network Time Protocol (NTP)
+124,ANSA REX Trader
+125,Locus PC-Interface Net Map Ser
+126,Unisys Unitary Login
+127,Locus PC-Interface Conn Server
+128,Gopher Protocol
+129,Password Generator Protocol
+130,Cisco FNATIVE
+131,Cisco TNATIVE
+132,StreetTalk Directory Assistance
+133,Statistics Service
+134,INGRES-NET Service
+135,Location Service (AF)
+136,PROFILE Naming System
+137,NETBIOS Name Service
+138,NETBIOS Datagram Service
+139,NETBIOS Session Service
+140,EMFIS Data Service
+141,EMFIS Control Service
+142,Britton-Lee IDM
+143,Internet Message Access Protocol (IMAP)
+144,Universal Management Architecture
+145,UAAC Protocol
+146,ISO-IP0
+147,ISO-IP
+148,Jargon
+149,AED 512 Emulation Service
+150,SQL-NET
+151,HEMS
+152,BFTP
+153,SGMP
+154,NETSC
+155,NETSC
+156,SQL Service
+157,KNET/VM Command/Message Protocol
+158,PCMail Server
+159,NSS-Routing
+160,SGMP-TRAPS
+161,Simple Network Management Protocol (SNMP)
+162,Simple Network Management Protocol Trap (SNMPTRAP)
+163,Inter-Asterisk eXchange (IAX)
+164,CMIP/TCP Manager
+165,Xerox
+166,S-NET
+167,NAMP
+168,RSVD
+169,SEND
+170,Network PostScript
+171,Network Innovations Multiplex
+172,Network Innovations CL/1
+173,Xyplex
+174,MAILQ
+175,VMNET
+176,GENRAD-MUX
+177,X Display Manager Control Protocol
+178,NextStep Window Server
+179,BGP (Border Gateway Protocol)
+180,Intergraph
+181,Unify
+182,Unisys Audit SITP
+183,OCA Application Network
+184,OCServer
+185,Remote-KIS
+186,KIS Protocol
+187,ACI
+188,Plus Five's MUMPS
+189,QFT
+190,Gateway Access Control Protocol
+191,Prospero Directory Service
+192,OSU Network Monitoring System
+193,Spider Remote Monitoring Protocol
+194,Internet Relay Chat Protocol (IRC)
+195,DNSIX Network Level Module Audit
+196,DNSIX Session Mgt Module Audit Redir
+197,DLS Directory Location Service
+198,Directory Location Service Monitor
+199,SMUX
+200,IBM System Resource Controller
+201,AppleTalk Routing Maintenance
+202,AppleTalk Name Binding
+203,AppleTalk Unused
+204,AppleTalk Echo
+205,AppleTalk Unused
+206,AppleTalk Zone Information
+207,AppleTalk Unused
+208,AppleTalk Unused
+209,The Quick Mail Transfer Protocol
+210,ANSI Z39.50
+211,IEEE 802.5 Token Ring
+212,ATEXSSTR
+213,IPX
+214,VM PWSCS
+215,Insignia Solutions
+216,Computer Associates Int'l License Server
+217,dBASE Unix
+218,Netix Message Posting Protocol
+219,Unisys ARPs
+220,Internet Message Access Protocol v3 (IMAP3)
+221,Berkeley rlogind with SPX auth
+222,Berkeley rshd with SPX auth
+223,Campus Ethernet
+224,masqdialer
+225,Reserved
+226,Reserved
+227,Reserved
+228,Reserved
+229,Reserved
+230,Reserved
+231,Reserved
+232,Reserved
+233,Reserved
+234,Reserved
+235,Reserved
+236,Reserved
+237,Reserved
+238,Reserved
+239,Reserved
+240,Reserved
+241,Reserved
+242,Direct
+243,Surveillance Data
+244,Dayna
+245,LINK
+246,PSSC
+247,SUBNTBCST_TFTP
+248,bhfhs
+249,Reserved
+250,Reserved
+251,Reserved
+252,Reserved
+253,Reserved
+254,Reserved
+255,Reserved
+256,Reserved
+257,Secure Internet Live Conferencing
+258,Reserved
+259,Reserved
+260,Openport
+261,IIOP Name Service over TLS/SSL
+262,ARCISDMS
+263,HDAP
+264,BGMP
+265,Reserved
+266,SCSI on ST
+267,Tobit David Service Layer
+268,Tobit David Replica
+269,MANET Protocols
+270,Reserved
+271,PTSP
+272,Unassigned
+273,Unassigned
+274,Unassigned
+275,Remote Personal Database
+276,Unassigned
+277,Aurora System
+278,Unassigned
+279,Trust Relay Port
+280,HTTP-mgmt
+281,Personal Link
+282,Cable Port A/X
+283,Unassigned
+284,Unassigned
+285,Unassigned
+286,FXP-1
+287,K-BLOCK
+288,Unassigned
+289,Unassigned
+290,Unassigned
+291,Unassigned
+292,Unassigned
+293,Unassigned
+294,Unassigned
+295,Unassigned
+296,Unassigned
+297,Unassigned
+298,Unassigned
+299,Unassigned
+300,Unassigned
+301,Unassigned
+302,Unassigned
+303,Unassigned
+304,Unassigned
+305,Unassigned
+306,Unassigned
+307,Unassigned
+308,Unassigned
+309,Unassigned
+310,Unassigned
+311,AppleShare IP WebAdmin
+312,VSLMP
+313,Magenta Logic
+314,Opalis Robot
+315,Unassigned
+316,Unassigned
+317,Unassigned
+318,PKIX TimeStamp
+319,PTP Event
+320,PTP General
+321,PIP
+322,RTSPS
+323,Reserved
+324,Reserved
+325,Reserved
+326,Reserved
+327,FILS
+328,Reserved
+329,Reserved
+330,Reserved
+331,Reserved
+332,Reserved
+333,Reserved
+334,Reserved
+335,Reserved
+336,Reserved
+337,Reserved
+338,Reserved
+339,Reserved
+340,Reserved
+341,Reserved
+342,Reserved
+343,Reserved
+344,Reserved
+345,Reserved
+346,Reserved
+347,Reserved
+348,Reserved
+349,Reserved
+350,Reserved
+351,Reserved
+352,Reserved
+353,NDSAUTH
+354,bh611
+355,DATEX-ASN
+356,Cloanto Net 1
+357,bhevent
+358,Shrinkwrap
+359,NSRMP
+360,scoi2odialog
+361,semantix
+362,SRS Send
+363,RSVP Tunnel
+364,Aurora CMGR
+365,DTK
+366,ODMR
+367,MortgageWare
+368,QbikGDP
+369,Rpc2portmap
+370,codaauth2
+371,Clearcase
+372,ListProcessor
+373,Legent Corporation
+374,Legent Corporation
+375,Hassle
+376,Amiga Envoy Network Inquiry Proto
+377,NEC Corporation
+378,NEC Corporation
+379,Is99C
+380,Is99 Session
+381,hp performance data collector
+382,AES Discovery Port
+383,HPN
+384,ARNIS
+385,IBM Application
+386,ASA Message Router Object Def.
+387,AURP
+388,Unidata LDM
+389,Lightweight Directory Access Protocol (LDAP)
+390,UIS
+391,SynOptics SNMP Relay Port
+392,SynOptics Port Broker Port
+393,Data Interpretation System
+394,EMBL Nucleic Data Transfer
+395,NetScout Control Protocol
+396,Novell Netware over IP
+397,Multi Protocol Trans. Net.
+398,Kryptolan
+399,ISO Transport Class 2 Non-Control over TCP
+400,Workstation Solutions
+401,Uninterruptible Power Supply
+402,Genie Protocol
+403,Decap
+404,Nced
+405,ncld
+406,Interactive Mail Support Protocol
+407,Timbuktu
+408,Prospero Resource Manager Sys. Man.
+409,Prospero Resource Manager Node Man.
+410,DECLadebug Remote Debug Protocol
+411,Remote MT Protocol
+412,Trap Convention Port
+413,SMSP
+414,InfoSeek
+415,BNet
+416,Silverplatter
+417,Onmux
+418,Hyper-G
+419,Ariel 1
+420,SMPTE
+421,Ariel 2
+422,Ariel 3
+423,IBM Operations Planning and Control Start
+424,VPPS-QUA
+425,VPPS via
+426,smartsdp
+427,SLP (Service Location Protocol)
+428,OCI Orb
+429,OCS_AMU
+430,UltraEdit-32
+431,UltraEdit-32
+432,IASD
+433,NNSP
+434,MobileIP-Agent
+435,MobilIP-MN
+436,DNA-CML
+437,comscm
+438,dsfgw
+439,dasp
+440,sgcp
+441,decvms-sysmgt
+442,cvc_hostd
+443,HTTP Secure (HTTPS)
+444,Simple Network Paging Protocol (SNPP)
+445,Microsoft-DS
+446,Digital VCS Video Control
+447,DDM-RDB
+448,DDM-SSL
+449,AS Server Mapper
+450,TFTP over TLS/SSL
+451,Cray Network Semaphore server
+452,Cray SFS config server
+453,Cray SFS storage manager
+454,ContentServer
+455,CREX
+456,macon-tcp
+457,scohelp
+458,apple quick time
+459,ampr-rcmd
+460,skronk
+461,DataRampSrv
+462,DataRampSrvSec
+463,alpes
+464,Unassigned
+465,SMTP over SSL (SMTPS)
+466,digital-vrc
+467,my favorite service
+468,proturis
+469,Radio Control Protocol
+470,scx-proxy
+471,Mondex
+472,ljk-login
+473,hybrid-pop
+474,tn-tl-w1
+475,tcpnethaspsrv
+476,tn-tl-fd1
+477,ss7ns
+478,spsc
+479,iafserver
+480,iafdbase
+481,Ph service
+482,bgs-nsi
+483,ulpnet
+484,Integra Software Management Environment
+485,Air Soft Power Burst
+486,avian
+487,saft Simple Asynchronous File Transfer
+488,gss-http
+489,nest-protocol
+490,micom-pfs
+491,go-login
+492,Transport Independent Convergence for FNA
+493,Transport Independent Convergence for FNA
+494,POV-Ray
+495,Intecourier
+496,PIM-RP-DISC
+497,dantz
+498,siam
+499,ISO ILL Protocol
+500,Internet Security Association and Key Management Protocol (ISAKMP)
+501,STMF
+502,Modbus Protocol
+503,Intrinsa
+504,citadel
+505,mailbox-lm
+506,ohimsrv
+507,crs
+508,xvttp
+509,snare
+510,Fcp
+511,PassGo
+512,remote process execution; class a
+513,remote login a la telnet; class a
+514,syslog; class b
+515,spooler
+516,Unassigned
+517,like tenex link, but across
+518,NTalk
+519,unixtime
+520,local routing process (LRP)
+521,ripng
+522,ULP
+523,IBM-DB2
+524,NetWare Core Protocol (NCP)
+525,Time Server
+526,Newdate
+527,Stock IXChange
+528,Custix
+529,IRC-SERV
+530,chat
+531,Conference
+532,readnews
+533,for emergency broadcasts
+534,windream
+535,iiop
+536,opalis-rdv
+537 Networked Media Streaming Protocol
